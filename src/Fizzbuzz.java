@@ -1,3 +1,8 @@
+/**
+ Write a program that prints the numbers from 1 to 100. For multiples of 3, print "Fizz"; for  multiples of 5, print "Buzz";
+ and for numbers that are multiples of both 3 and 5, print  "FizzBuzz".
+ */
+
 public class Fizzbuzz {
 
     public static void main(String[] args) {
@@ -15,7 +20,9 @@ public class Fizzbuzz {
         }
     }
 
-    /**Fibonacci sequence using a For Loop**/
+    /**
+     write a program to generate the Fibonacci sequence upto 100
+     **/
 
     public static class Fibonacci {
 
